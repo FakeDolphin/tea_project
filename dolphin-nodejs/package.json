@@ -2,6 +2,7 @@
   "name": "dolphin-nodejs",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/FakeDolphin/tea_project",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
